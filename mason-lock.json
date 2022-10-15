@@ -1,0 +1,13 @@
+{
+  "bricks": {
+    "bloc": {
+      "path": "/Users/khizhniakov/Documents/Code/flutter_brick/bloc"
+    },
+    "page": {
+      "path": "/Users/khizhniakov/Documents/Code/flutter_brick/page"
+    },
+    "project": {
+      "path": "/Users/khizhniakov/Documents/Code/flutter_brick/project"
+    }
+  }
+}
